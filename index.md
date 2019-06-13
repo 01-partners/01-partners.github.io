@@ -17,6 +17,7 @@ description: >-
 
 # From 0 to 1
 We believe that the initiative is the most difficult travel to individuals or enterprises. It is not that you set a goal with highest standards but you have to stick to your belief and resist loneliness, and it requires a trustworthy partner.
+
 **Zero One Inc.** aims to be your sincere partner and is honored to enjoy the trip with you.
 
 ## New Challenge
@@ -26,6 +27,7 @@ Exploring new markets, vitalizing your organization, empowering players, plannin
 
 # 從０到１
 我們相信從無到有這一步不論對個人還是法人永遠都是最艱難的一個旅程。不是難在過程或是結果，而是旅途上不僅要堅持與抵抗孤獨，更需要值得信賴的夥伴。
+
 **Zero One Inc.** 以成為您忠誠的夥伴為原則，一起享受這樣的旅程。
 
 ## 嶄新的挑戰
