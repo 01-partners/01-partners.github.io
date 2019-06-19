@@ -24,6 +24,6 @@ Zero One Inc.は事業会社での**新規事業立ち上げの実務経験**を
 2015年1月
 
 ### 代表
-代表取締役社長　馬　培倫　[LinkedIn Profile](https://www.linkedin.com/in/peilunma/)
+代表取締役社長　馬　培倫 (マ　ペイルン)　[LinkedIn Profile](https://www.linkedin.com/in/peilunma/)
 
 ---
