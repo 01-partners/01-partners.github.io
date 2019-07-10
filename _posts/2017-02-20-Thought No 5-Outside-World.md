@@ -5,7 +5,7 @@ date: 2017-02-20
 published: true
 title: 心構え No.5：社外でも通用するもの
 # categories: [blog, Japanese, Thought]
-tags: [共有, 発信, 期待行動]
+tags: [ミドル向け, 役割]
 ---
 皆さんは入社年数と社内担当がバラバラですが、
 主題の件は自分に問う習慣を持ってほしいです。

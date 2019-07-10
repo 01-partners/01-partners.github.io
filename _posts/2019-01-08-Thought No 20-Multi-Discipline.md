@@ -5,7 +5,7 @@ date: 2019-01-08
 published: true
 title: 心構え No.20：Multi-Discipline
 # categories: [blog, Japanese, Thought]
-tags: [共有, 発信, 期待行動]
+tags: [ミドル向け]
 ---
 明けましておめでとうございます。
 今年もよろしくお願いします。

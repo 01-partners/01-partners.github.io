@@ -5,7 +5,7 @@ date: 2016-03-14
 published: true
 title: 心構え No.2：一流になるための仕事
 # categories: [blog, Japanese, Thought]
-tags: [共有, 発信, 期待行動]
+tags: [ジュニア向け, 成果]
 ---
 皆さんはタイムカードで勤務時間を記録していますが、
 仕事の質・量は時間で測るものではなく、成果で測るものです。

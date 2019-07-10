@@ -5,7 +5,7 @@ date: 2018-01-18
 published: true
 title: 心構え No.14：良いプロセス
 # categories: [blog, Japanese, Thought]
-tags: [共有, 発信, 期待行動]
+tags: [ミドル向け, 基礎体力]
 ---
 仕事において結果重視かプロセス重視かおおむねこの２つに分類できると思っています。
 

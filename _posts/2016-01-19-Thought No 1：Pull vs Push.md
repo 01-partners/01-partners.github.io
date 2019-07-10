@@ -4,8 +4,8 @@ author: Peilun Ma
 date: 2016-01-19
 published: true
 title: 心構え No.1：Pull vs. Push
-# categories: [blog, Japanese, Thought]
-tags: [共有, 発信, 期待行動]
+categories: [Japanese, Thought]
+tags: [ジュニア向け, 期待行動]
 ---
 普段皆さんと一緒にいない分、コミュニケーションの時間が限られます。
 思いつくことが多いですが、期待、参考情報などをメールで連絡させて

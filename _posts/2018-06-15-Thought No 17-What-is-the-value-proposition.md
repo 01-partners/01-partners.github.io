@@ -5,7 +5,7 @@ date: 2018-06-15
 published: true
 title: 心構え No.17：どんな価値？
 # categories: [blog, Japanese, Thought]
-tags: [共有, 発信, 期待行動]
+tags: [ミドル向け, 判断基準]
 ---
 最近提案書に打ち込んでいるので、ちょうどよい紹介のタイミングです。
 所々お話しした内容だと思いますが、改めて一緒に考えてみましょう。

@@ -5,7 +5,7 @@ date: 2016-07-08
 published: true
 title: 心構え No.4：管理とは
 # categories: [blog, Japanese, Thought]
-tags: [共有, 発信, 期待行動]
+tags: [ミドル向け, 管理]
 ---
 「管理」という言葉は社内でもよく出ています。
 あまりにも頻度が多いため、文脈を気にしなかったり、定義を忘れたりします。

@@ -5,7 +5,7 @@ date: 2017-05-15
 published: true
 title: 心構え No.8：Be Skeptical
 # categories: [blog, Japanese, Thought]
-tags: [共有, 発信, 期待行動]
+tags: [ミドル向け, 主導権]
 ---
 英語を勉強したい人もいますから、しばらく英語で行こうと思い、
 今回の主題は「Be skeptical」を挙げます。つまり「懐疑的になれ」です。

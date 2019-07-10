@@ -5,7 +5,7 @@ date: 2017-12-12
 published: true
 title: 心構え No.13：対話
 # categories: [blog, Japanese, Thought]
-tags: [共有, 発信, 期待行動]
+tags: [ジュニア向け, 期待行動]
 ---
 最近討論と対話の違いを目にしたので、ここで共有します。
 

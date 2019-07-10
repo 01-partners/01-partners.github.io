@@ -5,7 +5,7 @@ date: 2018-08-24
 published: true
 title: 心構え No.18：仮説を立てる
 # categories: [blog, Japanese, Thought]
-tags: [共有, 発信, 期待行動]
+tags: [ジュニア向け]
 ---
 「仮説を立てる」なんだ、これは？と思ってしまうかもしれませんが、
 我々は毎日行っていることです。

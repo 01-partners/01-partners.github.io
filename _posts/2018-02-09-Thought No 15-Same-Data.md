@@ -5,7 +5,7 @@ date: 2018-02-09
 published: true
 title: 心構え No.15：同じデータ・違うモノ
 # categories: [blog, Japanese, Thought]
-tags: [共有, 発信, 期待行動]
+tags: [ミドル向け, 心理学]
 ---
 2017年11月に「脳を知る」をテーマに話をさせて頂きました。
 

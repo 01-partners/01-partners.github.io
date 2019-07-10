@@ -4,8 +4,8 @@ author: Peilun Ma
 date: 2017-03-27
 published: true
 title: 心構え No.7：Challenge
-# categories: [blog, Japanese, Thought]
-tags: [共有, 発信, 期待行動]
+categories: [Japanese, Thought]
+tags: [ミドル向け, 自分の意思]
 ---
 今回はChallengeです。
 チャレンジですが、わざと英語にしたのは理由があります。
