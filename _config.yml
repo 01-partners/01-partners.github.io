@@ -25,7 +25,7 @@ url: https://01-partners.com
 author:
   name: Peilun Ma
   twitter:
-  picture:
+  picture: /assets/images/Peilun.jpg
 twitter_username:
 github_username:
 logo: /assets/images/01-Logo.png # path of site logo, e.g. "/assets/images/logo.png"
@@ -86,3 +86,6 @@ defaults:
     values:
       layout: post
       read_time: true
+
+# Google Analytics Tacking ID
+google_analytics: UA-143606190-1
