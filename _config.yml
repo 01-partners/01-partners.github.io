@@ -19,18 +19,19 @@ title: Zero One Inc.
 email:
 description: 企業にとって終わりのない課題解決を共に挑戦するパートナー
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: https://01-partners.github.io
-# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url: https://01-partners.github.io
+url: https://01-partners.com
+# the base hostname & protocol for your site
 author:
-  name:
+  name: Peilun Ma
   twitter:
   picture:
 twitter_username:
 github_username:
 logo: /assets/images/01-Logo.png # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
+search: true # true, false (default)
 search_full_content: false # true, false (default)
-search_provider: # lunr (default), algolia
+search_provider: lunr # lunr (default), algolia
 algolia:
   application_id: # YOUR_APPLICATION_ID
   index_name: # YOUR_INDEX_NAME

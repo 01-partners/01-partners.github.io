@@ -2,6 +2,7 @@
 layout: page
 permalink: /policy/
 title: Privacy Policy
+image: /assets/images/01-Privacy.jpg
 description: >-
         株式会社０１のプライバシーポリシー
 ---

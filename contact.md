@@ -2,6 +2,7 @@
 layout: page
 permalink: /contact/
 title: Contact Us
+image: /assets/images/01-Contact.jpg
 description: >-
         お問合せ・Inquiry・洽詢
 ---
