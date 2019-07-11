@@ -5,7 +5,7 @@ date: 2018-09-13
 published: true
 title: 心構え No.19：Life is hard enough without enemy
 # categories: [blog, Japanese, Thought]
-tags: [ジュニア向け]
+tags: [ジュニア向け, あり方]
 ---
 久しぶりの英語ネタです。
 まず、簡単に分解して直訳してみます。
