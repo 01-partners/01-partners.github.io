@@ -3,7 +3,7 @@ layout: post
 author: Peilun Ma
 date: 2019-08-16
 published: true
-title: 「百聞は一見に如かず」が成立しない世界
+title: 心構え No.24：「百聞は一見に如かず」が成立しない世界
 # categories: [blog, Japanese, Thought]
 tags: [ミドル向け, 判断基準]
 ---
