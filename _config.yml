@@ -53,6 +53,9 @@ feed:
 paginate: 5
 paginate_path: /page:num/
 
+# Future posts
+future: false
+
 # Exclude from processing.
 exclude:
   - .asset-cache

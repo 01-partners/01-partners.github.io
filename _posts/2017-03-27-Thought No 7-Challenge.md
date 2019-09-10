@@ -4,7 +4,7 @@ author: Peilun Ma
 date: 2017-03-27
 published: true
 title: 心構え No.7：Challenge
-categories: [Japanese, Thought]
+# categories: [Japanese, Thought]
 tags: [ミドル向け, 自分の意思]
 ---
 今回はChallengeです。

@@ -4,7 +4,7 @@ author: Peilun Ma
 date: 2016-01-19
 published: true
 title: 心構え No.1：Pull vs. Push
-categories: [Japanese, Thought]
+# categories: [Japanese, Thought]
 tags: [ジュニア向け, 期待行動]
 ---
 普段皆さんと一緒にいない分、コミュニケーションの時間が限られます。
