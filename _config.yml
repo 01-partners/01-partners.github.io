@@ -16,9 +16,10 @@
 # lang: en-US
 lang: ja
 title: Zero One Inc.
+timezone: "Asia/Tokyo"
 email:
 description: 企業にとって終わりのない課題解決を共に挑戦するパートナー
-baseurl: # the optional subpath of your site, e.g. "/blog"
+baseurl: "/" # the optional subpath of your site, e.g. "/blog"
 # url: https://01-partners.github.io
 url: https://01-partners.com
 # the base hostname & protocol for your site
