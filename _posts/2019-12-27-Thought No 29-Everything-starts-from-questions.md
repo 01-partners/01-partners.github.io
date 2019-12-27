@@ -3,7 +3,7 @@ layout: post
 author: Peilun Ma
 date: 2019-12-27
 published: true
-title: 心構え No.29：
+title: 心構え No.29：すべては「問い」から始まる
 # categories: [blog, Japanese, Thought]
 tags: [ミドル向け, 世界観, 期待行動, 基礎体力]
 ---
